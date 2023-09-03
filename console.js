@@ -1,2 +1,1 @@
-Console,log("Hello");
-Console,log("Hello4534");
+const pair="text"
