@@ -1,17 +1,8 @@
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="Culture",Museum TV Fast (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
+https://co-e2-p-e-az1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/5c62bba6-5fc7-40be-b657-b704e7d8db06:TUL/variant/391731030074916d4aeacf7513b071cb/bandwidth/1847841.m3u8?aid=589b1365f30bc52f54100dd8&uid=SYpbst42DH1j2AUhmZW2LJYsuz8YI65o&sid=E13paWYxLOaQKF8uTqSqikV8TYtCSYpO&pid=NcTPRFNx8knYbrk8zeMxxfE2b55SAaXs&ref=https%3A%2F%2Fpartidosgol.noticiascaracol.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=ep5ujs0aQTlv6hNiLcyLEqSGnSSjOnzsvZDdEyW7kebFdIhG56HQDmdpGPMBg4iiUwkfsRPm0RD&adInsertionGoogleStreamId=5c62bba6-5fc7-40be-b657-b704e7d8db06%3ATUL&es=co-e2-p-e-az1.cdn.mdstrm.com&ote=1725750440769&ot=kQgLeBZXWRvA8_QhwIZGvQ&proto=https&pz=us
 
 #EXTINF:-1,Canal 1
 https://co-e2-p-e-az1.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/publish/media_750.m3u8?aid=5a1dafd63910b04010338038&uid=CJlXVFFUymRVAO2Dr0nEWpubIozaFEsw&sid=q6HNNpgJaX6J7ekPifRt3AIfCXvbA70Q&pid=N89CvkiaBAulossz29hXhHsPXXDDfmmG&ref=https%3A%2F%2Fcanal1.com.co%2F&without_cookies=false&listenerid=&dnt=true&es=co-e2-p-e-az1.cdn.mdstrm.com&ote=1693253200070&ot=oJMkoZT5-DKOIJh1nTA_nQ&proto=https&pz=us
-
-#EXTINF:-1 tvg-id="128" tvg-name="Señal Colombia" tvg-logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png", Señal Colombia | CO
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal Capital Colombia",Canal Capital Colombia
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Informativos" tvg-name="Euronews",Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles" tvg-name="Cartoon Network Latino",Cartoon Network Latino
